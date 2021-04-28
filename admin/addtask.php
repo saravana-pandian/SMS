@@ -13,14 +13,14 @@
 			<form action="" method="post" enctype="multipart/form-data">
 				  <div class="form-group">
 				    
-				     Work Name:<input type="text" class="form-control" name="name" placeholder="name">
+				     Work Name:<input type="text" class="form-control" name="name" placeholder="Work name">
 				  </div>
 				  <div class="form-group">
-				      Minimum Time: <input type="text" class="form-control" name="mint" placeholder="Enter City">
+				      Minimum Time: <input type="text" class="form-control" name="mint" placeholder="Enter Min Time">
 				  </div>
 				  <div class="form-group">
 				    
-				    Maximum Time:<input type="text" class="form-control" name="maxt" placeholder="Enter Parent Phone No.">
+				    Maximum Time:<input type="text" class="form-control" name="maxt" placeholder="Enter Max Time">
 				  </div>
 				  
 
@@ -69,6 +69,15 @@
 	}
 
  ?>
+
+
+
+
+
+
+
+
+
 
 
 
